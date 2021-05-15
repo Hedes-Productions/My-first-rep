@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 
+=======
+This is text3.I added to text 3.What the hell
+>>>>>>> 0fc894a803bca71241a0563563c9eacc14cf38cc
